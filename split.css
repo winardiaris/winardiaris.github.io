@@ -99,10 +99,10 @@ a:hover {
     opacity: 1; } }
 
 html {
-  background-color: #061C30; }
+  background-color: #1a1a1a; }
 
 body.page-template-page-fullsingle-split {
-  background-color: #061C30;
+  background-color: #1a1a1a;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 21px;
@@ -176,7 +176,7 @@ body.page-template-page-fullsingle-split {
     line-height: 16px;
     margin-bottom: 40px;
     letter-spacing: 0.4px;
-    color: #47bec7; }
+    color: #ffcc00; }
   .split-intro .tagline {
     color: #CCCCCC; }
 
@@ -196,9 +196,9 @@ body.page-template-page-fullsingle-split {
     transition-duration: 0.5s;
     border-bottom: 1px dotted #848d96; }
     .split-bio a:hover {
-      color: #CA486d;
+      color: #ffcc00;
       transition-duration: 0.1s;
-      border-bottom: 1px dotted #CA486d; }
+      border-bottom: 1px dotted #ffcc00; }
 
 .split-lists .split-list {
   width: 30%;
@@ -213,7 +213,7 @@ body.page-template-page-fullsingle-split {
     font-size: 11px;
     line-height: 11px;
     margin-bottom: 31px;
-    color: #848d96;
+    color: #ffcc00;
     letter-spacing: 2px;
     opacity: 0.5; }
   .split-lists .split-list ul li {
@@ -224,7 +224,7 @@ body.page-template-page-fullsingle-split {
       color: #848d96;
       transition-duration: 0.5s; }
       .split-lists .split-list ul li a:hover {
-        color: #CA486d;
+        color: #ffcc00;
         transition-duration: 0.1s; }
 
 .split-credit {
